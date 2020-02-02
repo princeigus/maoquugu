@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheethohsi.cindy-guan.com/sitemap.xml
